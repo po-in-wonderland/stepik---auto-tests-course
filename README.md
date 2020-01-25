@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
-Some tasks
-Задания для курса по автоматизации тестирования https://stepik.org/course/575/syllabus
+
+Здесь находятся домашние задания по курсу автоматизации тестирования на степик https://stepik.org/course/575/syllabus
